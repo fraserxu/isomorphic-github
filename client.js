@@ -7,8 +7,6 @@ var routes = require('./routes')
 var Dispatcher = require('./lib/dispatcher')
 var dispatcher = new Dispatcher()
 
-console.log(window.App)
-
 dispatcher.rehydrate(window.App)
 
 Router.run(routes, Router.HistoryLocation, function(Handler) {
