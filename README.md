@@ -1,7 +1,7 @@
-isomorphic github
+isomorphic github(WIP)
 =================
 
-An example to test isomorphic application with `react` + `flux` + `react-router` + `dispatcher` + `express`
+An example to test isomorphic application with `react` + `flux` + `react-router` + `dispatcher` + `express`, based on the [Isomorphic Flux](https://speakerdeck.com/mridgway/isomorphic-flux) talk by Michael Ridgway from Yahoo and [isomorphic-hot-loader](https://github.com/irvinebroque/isomorphic-hot-loader) project by Brendan Irvine-Broque.
 
 I've been using `react` + `flux` in the pure client side for a while, but there are a few problem with this approach:
 
